@@ -18,6 +18,7 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/caotrongphuoc/algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/caotrongphuoc/algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/caotrongphuoc/algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
@@ -27,6 +28,7 @@ Leetcode everyday!
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/caotrongphuoc/algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -106,6 +108,7 @@ Leetcode everyday!
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
