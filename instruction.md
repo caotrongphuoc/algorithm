@@ -34,7 +34,7 @@ Step 7: Open your Leetcode and submit your questions
 
 *You need to wait until the tick turns green as your code has been submitted to Github.
 
-Step 8: Check your repository if your code has been submitted
+Step 8: Check your repository if your code has been submitted (F5 the repository's page)
 
 <img width="941" height="333" alt="image" src="https://github.com/user-attachments/assets/c6c7b034-9a1c-48f2-8bfb-54448186c266" />
 
