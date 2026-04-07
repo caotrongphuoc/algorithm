@@ -56,6 +56,7 @@ Leetcode everyday!
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/caotrongphuoc/algorithm/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
@@ -241,6 +242,7 @@ Leetcode everyday!
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/caotrongphuoc/algorithm/tree/main/0841-keys-and-rooms/) | Medium |
 | [0872-leaf-similar-trees](https://github.com/caotrongphuoc/algorithm/tree/main/0872-leaf-similar-trees/) | Easy |
+| [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -257,6 +259,7 @@ Leetcode everyday!
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0841-keys-and-rooms](https://github.com/caotrongphuoc/algorithm/tree/main/0841-keys-and-rooms/) | Medium |
+| [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
@@ -268,6 +271,7 @@ Leetcode everyday!
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/caotrongphuoc/algorithm/tree/main/0733-flood-fill/) | Easy |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+| [0934-shortest-bridge](https://github.com/caotrongphuoc/algorithm/tree/main/0934-shortest-bridge/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
