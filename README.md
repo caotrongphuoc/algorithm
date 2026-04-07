@@ -59,4 +59,12 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/caotrongphuoc/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0203-remove-linked-list-elements](https://github.com/caotrongphuoc/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 <!---LeetCode Topics End-->
