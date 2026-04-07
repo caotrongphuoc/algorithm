@@ -60,6 +60,7 @@ Leetcode everyday!
 | [0086-partition-list](https://github.com/caotrongphuoc/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@ Leetcode everyday!
 | [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -149,6 +151,7 @@ Leetcode everyday!
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/caotrongphuoc/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -180,4 +183,8 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 <!---LeetCode Topics End-->
