@@ -215,6 +215,7 @@ Leetcode everyday!
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -224,6 +225,7 @@ Leetcode everyday!
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -234,4 +236,9 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
+## Graph Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->
