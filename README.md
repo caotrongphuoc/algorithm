@@ -51,6 +51,7 @@ Leetcode everyday!
 | [0704-binary-search](https://github.com/caotrongphuoc/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/caotrongphuoc/algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
@@ -204,6 +205,7 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
+| [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -227,6 +229,7 @@ Leetcode everyday!
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
+| [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
@@ -236,6 +239,7 @@ Leetcode everyday!
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
+| [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
@@ -247,4 +251,12 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 <!---LeetCode Topics End-->
