@@ -234,6 +234,7 @@ Leetcode everyday!
 | [0226-invert-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/caotrongphuoc/algorithm/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/caotrongphuoc/algorithm/tree/main/0733-flood-fill/) | Easy |
@@ -248,6 +249,7 @@ Leetcode everyday!
 | [0226-invert-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0226-invert-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
+| [0547-number-of-provinces](https://github.com/caotrongphuoc/algorithm/tree/main/0547-number-of-provinces/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [0733-flood-fill](https://github.com/caotrongphuoc/algorithm/tree/main/0733-flood-fill/) | Easy |
@@ -270,10 +272,12 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
+| [0547-number-of-provinces](https://github.com/caotrongphuoc/algorithm/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/caotrongphuoc/algorithm/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
