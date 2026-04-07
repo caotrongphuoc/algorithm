@@ -47,6 +47,7 @@ Leetcode everyday!
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/caotrongphuoc/algorithm/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/caotrongphuoc/algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [0704-binary-search](https://github.com/caotrongphuoc/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/caotrongphuoc/algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
@@ -91,6 +92,7 @@ Leetcode everyday!
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
+| [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -178,6 +180,7 @@ Leetcode everyday!
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,6 +214,7 @@ Leetcode everyday!
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -219,6 +223,7 @@ Leetcode everyday!
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
+| [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
