@@ -130,11 +130,13 @@ Leetcode everyday!
 | [0069-sqrtx](https://github.com/caotrongphuoc/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/caotrongphuoc/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
+| [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
