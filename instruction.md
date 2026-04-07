@@ -44,10 +44,10 @@ In case you want to change your commit message, click the extension and chose "C
 
 
 
-
-
-
 <img width="332" height="576" alt="image" src="https://github.com/user-attachments/assets/b8096769-8ed5-4536-ba50-45be0da69091" />
+![img1]([link1](https://github.com/user-attachments/assets/5ee555ae-fc1b-44da-bc4f-5d84ab4e9075))
+
+![img2]([link2](https://github.com/user-attachments/assets/b8096769-8ed5-4536-ba50-45be0da69091))
 
 
 
