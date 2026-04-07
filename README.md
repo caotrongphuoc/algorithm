@@ -19,6 +19,7 @@ Leetcode everyday!
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/caotrongphuoc/algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
