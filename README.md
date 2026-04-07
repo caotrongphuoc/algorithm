@@ -9,6 +9,7 @@ Leetcode everyday!
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0020-valid-parentheses](https://github.com/caotrongphuoc/algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
+| [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -29,6 +30,7 @@ Leetcode everyday!
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/caotrongphuoc/algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -51,6 +53,7 @@ Leetcode everyday!
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
@@ -117,6 +120,7 @@ Leetcode everyday!
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
