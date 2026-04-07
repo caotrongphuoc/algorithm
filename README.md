@@ -58,6 +58,7 @@ Leetcode everyday!
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +229,7 @@ Leetcode everyday!
 | [0690-employee-importance](https://github.com/caotrongphuoc/algorithm/tree/main/0690-employee-importance/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/caotrongphuoc/algorithm/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -235,6 +237,7 @@ Leetcode everyday!
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/caotrongphuoc/algorithm/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
