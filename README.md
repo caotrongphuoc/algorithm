@@ -47,6 +47,7 @@ Leetcode everyday!
 | [0704-binary-search](https://github.com/caotrongphuoc/algorithm/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/caotrongphuoc/algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -147,6 +148,7 @@ Leetcode everyday!
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/caotrongphuoc/algorithm/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
