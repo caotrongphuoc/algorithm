@@ -23,6 +23,7 @@ Step 5: Authenticate
 Step 6: Setup Leethub
 
 <img width="878" height="404" alt="image" src="https://github.com/user-attachments/assets/9d199820-1870-48fb-98f1-13f7c8d7539a" />
+
 *Chose your repository's name you created on Github!
 
 <img width="1482" height="741" alt="image" src="https://github.com/user-attachments/assets/60b864a6-35c6-4e52-b971-1089f7b5bfc0" />
