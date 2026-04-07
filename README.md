@@ -22,6 +22,7 @@ Leetcode everyday!
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/caotrongphuoc/algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -34,12 +35,14 @@ Leetcode everyday!
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
+| [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 ## Counting
