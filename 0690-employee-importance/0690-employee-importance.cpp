@@ -20,7 +20,7 @@ public:
         queue<int> q;
         q.push(id);
 
-        while(!q.empty())
+        whole(!q.empty())
         {
             int cur = q.front();
             q.pop();
