@@ -56,6 +56,7 @@ Leetcode everyday!
 | [0875-koko-eating-bananas](https://github.com/caotrongphuoc/algorithm/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [0994-rotting-oranges](https://github.com/caotrongphuoc/algorithm/tree/main/0994-rotting-oranges/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/caotrongphuoc/algorithm/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -151,6 +152,7 @@ Leetcode everyday!
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/caotrongphuoc/algorithm/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
