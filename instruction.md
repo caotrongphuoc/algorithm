@@ -32,7 +32,7 @@ Step 7: Open your Leetcode and submit your questions
 
 <img width="933" height="372" alt="image" src="https://github.com/user-attachments/assets/37eee0f3-e303-4884-844e-7d33c72e19a2" />
 
-*You need to wait until the tick's green as your code has been sumitted to Github.
+*You need to wait until the tick turns green as your code has been sumitted to Github.
 
 Step 8: Check your repository if your code has been sumitted
 
