@@ -175,6 +175,7 @@ Leetcode everyday!
 | ------- | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -205,11 +206,13 @@ Leetcode everyday!
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
+| [0559-maximum-depth-of-n-ary-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0559-maximum-depth-of-n-ary-tree/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
