@@ -29,12 +29,14 @@ Leetcode everyday!
 | [0414-third-maximum-number](https://github.com/caotrongphuoc/algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/caotrongphuoc/algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/caotrongphuoc/algorithm/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -45,6 +47,7 @@ Leetcode everyday!
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/caotrongphuoc/algorithm/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
