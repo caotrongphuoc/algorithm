@@ -12,6 +12,7 @@ Leetcode everyday!
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -19,6 +20,7 @@ Leetcode everyday!
 | [0020-valid-parentheses](https://github.com/caotrongphuoc/algorithm/tree/main/0020-valid-parentheses/) | Easy |
 | [0225-implement-stack-using-queues](https://github.com/caotrongphuoc/algorithm/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/caotrongphuoc/algorithm/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
