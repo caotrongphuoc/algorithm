@@ -7,6 +7,7 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/caotrongphuoc/algorithm/tree/main/0020-valid-parentheses/) | Easy |
+| [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -23,4 +24,12 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 <!---LeetCode Topics End-->
