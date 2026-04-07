@@ -38,6 +38,14 @@ Step 8: Check your repository if your code has been submitted
 
 <img width="941" height="333" alt="image" src="https://github.com/user-attachments/assets/c6c7b034-9a1c-48f2-8bfb-54448186c266" />
 
+In case you want to change your commit message, click the extension and chose "Customize Commit Message":
+
+<img width="424" height="680" alt="image" src="https://github.com/user-attachments/assets/5ee555ae-fc1b-44da-bc4f-5d84ab4e9075" />
+
+<img width="332" height="576" alt="image" src="https://github.com/user-attachments/assets/b8096769-8ed5-4536-ba50-45be0da69091" />
+
+
+
 
 
 
