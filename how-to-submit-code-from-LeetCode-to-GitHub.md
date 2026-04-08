@@ -58,4 +58,5 @@ Using **Chrome** may not submit the `README.md` (including your problem descript
 
 | Edge ✅ | Chrome ❌ |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" width="100%" /> | <img src="https://github.com/user-attachments/assets/1f99559c-412f-4ffa-86b8-b11760b940c4" width="100%" /> |
+| <img src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" width="100%" /> | <img src="<img width="2532" height="961" alt="image" src="https://github.com/user-attachments/assets/8bc624dc-b12c-4881-ac0c-2e05ef65f160" />
+" width="100%" /> |
