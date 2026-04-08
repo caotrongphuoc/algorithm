@@ -76,7 +76,7 @@ Move your code into the new folder:
   <img src="https://github.com/user-attachments/assets/53ee12f0-980e-4225-a637-cfce81c69798" width="40%" />
 </p>
 
-**Refresh** — Press **F5** on your GitHub page to check your folder:
+Press **F5** to refresh your GitHub page and check your folder:
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/e9b4fb19-5628-4e7a-9c5d-156e825676f3" width="80%" /> <br><br>
