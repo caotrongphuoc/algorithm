@@ -24,10 +24,15 @@ Step 3: Submit code from LeetCode
   <img width="2547" height="736" src="https://github.com/user-attachments/assets/94494f82-8d04-4781-a821-8bab23d66d57" /> <br>
 </p>
 
-*Note: You must wait until the tick turns green as your code has been submitted to GitHub*  
+*Note: You must wait until the tich turns green as your code has been submitted to GitHub 
 
 <p align="center">
   <img width="1287" height="378" src="https://github.com/user-attachments/assets/0e5fa8bd-e934-44fe-bbdf-989c5501314c" /> <br>
+</p>
+
+*Note: F5 your GitHub and check the result
+
+<p align="center">
   <img width="1683" height="551" src="https://github.com/user-attachments/assets/19a8596d-1287-4b6e-948f-e7d9794d5237" /> <br>
 </p>
 
