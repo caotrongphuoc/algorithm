@@ -1,5 +1,5 @@
 HOW TO SUBMIT CODE FROM LEETCODE TO GITHUB  
-
+I/ Tutorial
 Step 1: Create a repository  
 
 <p align="center">
@@ -42,16 +42,16 @@ In case you want to customize your Commit Message:
   <img width="388" height="486" src="https://github.com/user-attachments/assets/daa22e01-2ef3-4ba9-83bb-008fd04f84b7" /> <br>
 </p>
 
-Warning: Using Chrome may not submit README.md including your question to GitHub
-
-- Edge:
-
-<p align="center">
-  <img width="2523" height="1180" alt="image" src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" /> <br>
-</p>
-
-- Chrome:
-
-<p align="center">
-  <img width="2551" height="1022" alt="image" src="https://github.com/user-attachments/assets/1f99559c-412f-4ffa-86b8-b11760b940c4" /> <br>
-</p>
+II/ Warning
+    Using Chrome may not submit README.md including your question to GitHub, for example:
+  - Edge:
+  
+  <p align="center">
+    <img width="2523" height="1180" alt="image" src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" /> <br>
+  </p>
+  
+  - Chrome:
+  
+  <p align="center">
+    <img width="2551" height="1022" alt="image" src="https://github.com/user-attachments/assets/1f99559c-412f-4ffa-86b8-b11760b940c4" /> <br>
+  </p>
