@@ -32,11 +32,33 @@
 
 ## Step 4: Organize Your Code
 
+**Fetch** — Check for new changes from the remote repository (GitHub) without modifying your local files:
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/940019bb-9dd2-4227-bb15-36b1f23fc917" width="45%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/1174e740-3537-4ec6-855e-98656efdecde" width="40%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/afc1c12b-a0fd-41c5-bc99-87900a765a96" width="70%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/72d90ee6-0121-408e-b5bb-24ad4ad1f158" width="50%" /> <br><br>
+  <img src="https://github.com/user-attachments/assets/940019bb-9dd2-4227-bb15-36b1f23fc917" width="45%" />
+</p>
+
+**Pull** — Download changes from the remote repository and merge them into your current branch:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/1174e740-3537-4ec6-855e-98656efdecde" width="40%" />
+</p>
+
+Open the repository folder in Explorer:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/afc1c12b-a0fd-41c5-bc99-87900a765a96" width="70%" />
+</p>
+
+Create a new folder to organize your code:
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/72d90ee6-0121-408e-b5bb-24ad4ad1f158" width="50%" />
+</p>
+
+Move your code into the new folder:
+
+<p align="center">
   <img src="https://github.com/user-attachments/assets/23779d84-3c0e-487d-9ad1-7ab8894273c2" width="35%" /> <br><br>
   <img src="https://github.com/user-attachments/assets/f0ea76b4-50f8-4396-99d8-9318e13b704b" width="50%" />
 </p>
@@ -48,7 +70,7 @@
   <img src="https://github.com/user-attachments/assets/21ea2366-6f27-4379-b635-5cf652b3a8f4" width="40%" />
 </p>
 
-> **Note:** Push to GitHub Web:
+> **Note:** **Push** to send your local commits to the remote repository (GitHub).
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/53ee12f0-980e-4225-a637-cfce81c69798" width="40%" />
