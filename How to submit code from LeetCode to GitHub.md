@@ -53,5 +53,5 @@ Warning: Using Chrome may not submit README.md including your question to GitHub
 - Chrome:
 
 <p align="center">
-  <img width="2540" height="593" alt="image" src="https://github.com/user-attachments/assets/0bdd97c7-dd93-4ed6-8034-59c9e911fd92" /> <br>
+  <img width="2551" height="1022" alt="image" src="https://github.com/user-attachments/assets/1f99559c-412f-4ffa-86b8-b11760b940c4" /> <br>
 </p>
