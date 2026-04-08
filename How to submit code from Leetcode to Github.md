@@ -8,3 +8,11 @@ Step 1: Create a repository
 
 Step 2: Install LeetHub
 
+<img width="809" height="875" alt="image" src="https://github.com/user-attachments/assets/d79c8e3f-fc76-4f3a-aa91-cf09168bf445" /> <br>
+<img width="1410" height="415" alt="image" src="https://github.com/user-attachments/assets/f67d0904-7e1b-464c-8f91-1f8ceb9b75d5" /> <br>
+<img width="411" height="318" alt="image" src="https://github.com/user-attachments/assets/c2377336-8f50-4d11-a5f6-659e2f709554" /> <br>
+<img width="383" height="279" alt="image" src="https://github.com/user-attachments/assets/05429e16-76d9-4fc4-aea4-c897e89f00bb" /> <br>
+<img width="1267" height="576" alt="image" src="https://github.com/user-attachments/assets/7ff364c7-1a48-4333-b48b-8570e00dd6c1" /> <br>
+
+Step 3: Submit code from LeetCode
+
