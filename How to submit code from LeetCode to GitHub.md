@@ -41,3 +41,17 @@ In case you want to customize your Commit Message:
 <p align="center">
   <img width="388" height="486" src="https://github.com/user-attachments/assets/daa22e01-2ef3-4ba9-83bb-008fd04f84b7" /> <br>
 </p>
+
+Warning: Using Chrome may not submit README.md including your question to GitHub
+
+- Edge:
+
+<p align="center">
+  <img width="2523" height="1180" alt="image" src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" /> <br>
+</p>
+
+- Chrome:
+
+<p align="center">
+  <img width="2540" height="593" alt="image" src="https://github.com/user-attachments/assets/0bdd97c7-dd93-4ed6-8034-59c9e911fd92" /> <br>
+</p>
