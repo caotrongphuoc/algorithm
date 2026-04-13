@@ -31,6 +31,7 @@ Leetcode everyday!
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/caotrongphuoc/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
@@ -69,6 +70,7 @@ Leetcode everyday!
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/caotrongphuoc/algorithm/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/caotrongphuoc/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/caotrongphuoc/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
