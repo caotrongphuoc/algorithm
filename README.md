@@ -1,6 +1,3 @@
-# algorithm
-Leetcode everyday!
-
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## String
