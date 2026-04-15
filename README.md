@@ -74,6 +74,7 @@ Leetcode everyday!
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0086-partition-list](https://github.com/caotrongphuoc/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
+| [0160-intersection-of-two-linked-lists](https://github.com/caotrongphuoc/algorithms/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -97,6 +98,7 @@ Leetcode everyday!
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/caotrongphuoc/algorithms/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/caotrongphuoc/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
@@ -131,6 +133,7 @@ Leetcode everyday!
 | [0083-remove-duplicates-from-sorted-list](https://github.com/caotrongphuoc/algorithms/tree/main/0083-remove-duplicates-from-sorted-list/) | Easy |
 | [0086-partition-list](https://github.com/caotrongphuoc/algorithm/tree/main/0086-partition-list/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
+| [0160-intersection-of-two-linked-lists](https://github.com/caotrongphuoc/algorithms/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0203-remove-linked-list-elements](https://github.com/caotrongphuoc/algorithm/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/caotrongphuoc/algorithms/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/caotrongphuoc/algorithm/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
