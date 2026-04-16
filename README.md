@@ -31,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/caotrongphuoc/algorithms/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0049-group-anagrams](https://github.com/caotrongphuoc/algorithm/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/caotrongphuoc/algorithms/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/caotrongphuoc/algorithm/tree/main/0075-sort-colors/) | Medium |
 | [0079-word-search](https://github.com/caotrongphuoc/algorithm/tree/main/0079-word-search/) | Medium |
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
@@ -188,6 +189,7 @@
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/caotrongphuoc/algorithms/tree/main/0053-maximum-subarray/) | Medium |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/caotrongphuoc/algorithm/tree/main/0109-convert-sorted-list-to-binary-search-tree/) | Medium |
 | [0169-majority-element](https://github.com/caotrongphuoc/algorithm/tree/main/0169-majority-element/) | Easy |
 ## Tree
@@ -225,6 +227,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/caotrongphuoc/algorithms/tree/main/0053-maximum-subarray/) | Medium |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
