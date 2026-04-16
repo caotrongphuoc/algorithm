@@ -40,6 +40,7 @@
 | [0169-majority-element](https://github.com/caotrongphuoc/algorithm/tree/main/0169-majority-element/) | Easy |
 | [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0200-number-of-islands](https://github.com/caotrongphuoc/algorithm/tree/main/0200-number-of-islands/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/caotrongphuoc/algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/caotrongphuoc/algorithm/tree/main/0217-contains-duplicate/) | Easy |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0414-third-maximum-number](https://github.com/caotrongphuoc/algorithm/tree/main/0414-third-maximum-number/) | Easy |
@@ -119,6 +120,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/caotrongphuoc/algorithm/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/caotrongphuoc/algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/caotrongphuoc/algorithm/tree/main/0643-maximum-average-subarray-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -170,6 +172,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/caotrongphuoc/algorithm/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
+| [0209-minimum-size-subarray-sum](https://github.com/caotrongphuoc/algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/caotrongphuoc/algorithm/tree/main/0704-binary-search/) | Easy |
@@ -305,4 +308,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0773-sliding-puzzle](https://github.com/caotrongphuoc/algorithm/tree/main/0773-sliding-puzzle/) | Hard |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/caotrongphuoc/algorithms/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 <!---LeetCode Topics End-->
