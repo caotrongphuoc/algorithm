@@ -17,6 +17,7 @@
 | [1370-increasing-decreasing-string](https://github.com/caotrongphuoc/algorithms/tree/main/1370-increasing-decreasing-string/) | Easy |
 | [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/caotrongphuoc/algorithm/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/caotrongphuoc/algorithms/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -194,6 +195,7 @@
 | [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
+| [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/caotrongphuoc/algorithms/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
