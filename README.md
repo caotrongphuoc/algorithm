@@ -12,6 +12,7 @@
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/caotrongphuoc/algorithm/tree/main/0796-rotate-string/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/caotrongphuoc/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/caotrongphuoc/algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/caotrongphuoc/algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1370-increasing-decreasing-string](https://github.com/caotrongphuoc/algorithms/tree/main/1370-increasing-decreasing-string/) | Easy |
@@ -28,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/caotrongphuoc/algorithms/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/caotrongphuoc/algorithm/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/caotrongphuoc/algorithm/tree/main/0739-daily-temperatures/) | Medium |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/caotrongphuoc/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/caotrongphuoc/algorithms/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/caotrongphuoc/algorithm/tree/main/1209-remove-all-adjacent-duplicates-in-string-ii/) | Medium |
 | [1544-make-the-string-great](https://github.com/caotrongphuoc/algorithm/tree/main/1544-make-the-string-great/) | Easy |
@@ -201,6 +203,7 @@
 | ------- | ------- |
 | [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/caotrongphuoc/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
 | [1388-pizza-with-3n-slices](https://github.com/caotrongphuoc/algorithm/tree/main/1388-pizza-with-3n-slices/) | Hard |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/caotrongphuoc/algorithms/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 ## Counting Sort
