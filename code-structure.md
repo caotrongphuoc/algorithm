@@ -5,7 +5,7 @@
 ## Step 1: Download and login GitHub Desktop
 
 <p align="center">
-  <img width="2500" alt="GitHub Download" src="images/tutorial/codestructure/download-github.png" />
+  <img width="2500" height="1000" alt="GitHub Download" src="images/tutorial/codestructure/download-github.png" />
 </p>
 
 ---
