@@ -102,7 +102,7 @@ You can edit the default commit message in the LeetHub extension settings to bet
 
 | FireFox | Edge | Chrome |
 | :---: | :---: | :---: |
-| <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/f5-github.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-edge.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-chrome.png" /> |
+| <img width="800" alt="Submit by FireFox" src="images/tutorial/submit-by-firefox.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-edge.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-chrome.png" /> |
 | Uploads code **and** README.md | Uploads code **and** README.md | Uploads code **only**, missing README.md |
 
 ---
