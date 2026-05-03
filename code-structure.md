@@ -5,7 +5,7 @@
 ## Step 1: Download and login GitHub Desktop
 
 <p align="center">
-  <img width="2548" height="1303" alt="image" src="https://github.com/user-attachments/assets/9243b285-a331-4358-aac6-0b93ec9ae5d0" />
+  <img width="2500" alt="GitHub Download" src="images/tutorial/codestructure/download-github.png" />
 </p>
 
 ---
@@ -68,5 +68,11 @@ Press **F5** to refresh your GitHub page and check your folder:
 
 <p align="center">
   <img width="2556" height="1303" alt="image" src="https://github.com/user-attachments/assets/0b0cc8f0-c019-4c9f-b05c-9ab9290f1d98" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/532618e1-295d-4dc5-88fa-03e554cb33be" width="80%" />
+  <img width="2532" height="1300" alt="image" src="https://github.com/user-attachments/assets/f055e4e7-39e3-4ca4-8770-999e852195fe" />
+</p>
+
+---
+
+<p align="center">
+  <i>Have fun coding!</i>
 </p>
