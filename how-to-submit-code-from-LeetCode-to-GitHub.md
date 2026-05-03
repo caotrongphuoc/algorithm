@@ -95,13 +95,13 @@ You can edit the default commit message in the LeetHub extension settings to bet
 
 ---
 
-## Liên hệ & Hỗ trợ
+## Contact & Support
 
 - LinkedIn: [www.linkedin.com/in/cao-trong-phuoc](https://www.linkedin.com/in/cao-trong-phuoc)
-- Dép lào: 0936310918
+- Phone: 0936310918
 
 ---
 
 <p align="center">
-  <i>Chúc bạn lập trình vui vẻ!</i>
+  <i>Have fun coding!</i>
 </p>
