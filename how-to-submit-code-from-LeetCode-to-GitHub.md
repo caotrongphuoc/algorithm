@@ -31,7 +31,7 @@ First, create a new repository on GitHub to store your LeetCode solutions.
   <img width="800" alt="Click New repository" src="images/submitcode/new-repo.png" />
 </p>
 
-**1.3.** Fill in the repository name, choose visibility (Public/Private), then click **Create repository**.
+**1.3.** Fill in the repository name, description, add README, then click **Create repository**.
 
 <p align="center">
   <img width="800" alt="Create repository form" src="images/submitcode/create-repo.png" />
@@ -43,7 +43,7 @@ First, create a new repository on GitHub to store your LeetCode solutions.
 
 LeetHub is a browser extension that automatically pushes your accepted LeetCode submissions to GitHub.
 
-**2.1.** Search for **LeetHub** in the Chrome/Edge Web Store and add it to your browser.
+**2.1.** Search for **LeetHub** in the Chrome/Edge/FireFox Web Store and add it to your browser.
 
 <p align="center">
   <img width="800" alt="Install LeetHub extension" src="images/submitcode/extension.png" />
@@ -100,9 +100,9 @@ You can edit the default commit message in the LeetHub extension settings to bet
 > **Important:** Using **Chrome** may fail to upload the `README.md` file (including the problem description) to GitHub.
 > **Edge is recommended** for full functionality.
 
-| Edge | Chrome |
-| :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" width="100%" /> | <img src="https://github.com/user-attachments/assets/57e40230-0315-4758-9037-2d006876e5b6" width="100%" /> |
+| FireFox | Edge | Chrome |
+| :---: | :---: | :---: |
+| <img width="800" alt="Refresh GitHub to see commit" src="images/submitcode/f5-github.png" /> | <img src="https://github.com/user-attachments/assets/57e40230-0315-4758-9037-2d006876e5b6" width="100%" /> | <img src="https://github.com/user-attachments/assets/57e40230-0315-4758-9037-2d006876e5b6" width="100%" /> |
 | Uploads code **and** README.md | Uploads code **only**, missing README.md |
 
 ---
