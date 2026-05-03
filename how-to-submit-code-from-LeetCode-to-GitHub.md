@@ -8,8 +8,8 @@
 
 <p align="center">
   <img width="1338" height="640" alt="repo" src="images/submitcode/repo.png" <br><br>
-  <img src="https://github.com/user-attachments/assets/5a7bc4c8-297e-47a5-808b-3b2fad0db0c1" width="80%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/46ff3424-09f5-4b62-8e61-999a7fd3041b" width="45%" />
+  <img width="1338" height="640" alt="repo" src="images/submitcode/new-repo.png" <br><br>
+  <img width="1338" height="640" alt="repo" src="images/submitcode/create-repo.png" <br><br>
 </p>
 
 ---
