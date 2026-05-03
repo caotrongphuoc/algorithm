@@ -22,19 +22,19 @@ First, create a new repository on GitHub to store your LeetCode solutions.
 **1.1.** Go to your GitHub homepage and locate the repository section.
 
 <p align="center">
-  <img width="800" alt="GitHub homepage" src="images/submitcode/repo.png" />
+  <img width="800" alt="GitHub homepage" src="images/tutorial/repo.png" />
 </p>
 
 **1.2.** Click **New** to start creating a repository.
 
 <p align="center">
-  <img width="800" alt="Click New repository" src="images/submitcode/new-repo.png" />
+  <img width="800" alt="Click New repository" src="images/tutorial/new-repo.png" />
 </p>
 
 **1.3.** Fill in the repository name, description, add README, then click **Create repository**.
 
 <p align="center">
-  <img width="800" alt="Create repository form" src="images/submitcode/create-repo.png" />
+  <img width="800" alt="Create repository form" src="images/tutorial/create-repo.png" />
 </p>
 
 ---
@@ -46,19 +46,19 @@ LeetHub is a browser extension that automatically pushes your accepted LeetCode 
 **2.1.** Search for **LeetHub** in the Chrome/Edge/FireFox Web Store and add it to your browser.
 
 <p align="center">
-  <img width="800" alt="Install LeetHub extension" src="images/submitcode/extension.png" />
+  <img width="800" alt="Install LeetHub extension" src="images/tutorial/extension.png" />
 </p>
 
 **2.2.** Open the extension and click **Authenticate** to sign in with your GitHub account.
 
 <p align="center">
-  <img width="800" alt="Authenticate with GitHub" src="images/submitcode/authenticate.png" />
+  <img width="800" alt="Authenticate with GitHub" src="images/tutorial/authenticate.png" />
 </p>
 
 **2.3.** Link the extension to the repository you created in Step 1.
 
 <p align="center">
-  <img width="800" alt="Link repository to LeetHub" src="images/submitcode/linking.png" />
+  <img width="800" alt="Link repository to LeetHub" src="images/tutorial/linking.png" />
 </p>
 
 ---
@@ -70,19 +70,19 @@ Once LeetHub is set up, every accepted submission can be pushed to GitHub automa
 **3.1.** Solve a problem on LeetCode and click **Submit**.
 
 <p align="center">
-  <img width="800" alt="Submit code on LeetCode" src="images/submitcode/submit-code.png" />
+  <img width="800" alt="Submit code on LeetCode" src="images/tutorial/submit-code.png" />
 </p>
 
 > **Note:** Wait until the LeetHub icon shows a **green tick** — this confirms your code has been pushed to GitHub successfully.
 
 <p align="center">
-  <img width="800" alt="Wait for green tick" src="images/submitcode/wait-for-tick.png" />
+  <img width="800" alt="Wait for green tick" src="images/tutorial/wait-for-tick.png" />
 </p>
 
 **3.2.** Press **F5** to refresh your GitHub repository page and verify the new commit.
 
 <p align="center">
-  <img width="800" alt="Refresh GitHub to see commit" src="images/submitcode/f5-github.png" />
+  <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/f5-github.png" />
 </p>
 
 #### Customize Your Commit Message
@@ -90,7 +90,7 @@ Once LeetHub is set up, every accepted submission can be pushed to GitHub automa
 You can edit the default commit message in the LeetHub extension settings to better describe your submissions.
 
 <p align="center">
-  <img width="800" alt="Customize commit message" src="images/submitcode/customize-commit-message.png" />
+  <img width="800" alt="Customize commit message" src="images/tutorial/customize-commit-message.png" />
 </p>
 
 ---
@@ -102,7 +102,7 @@ You can edit the default commit message in the LeetHub extension settings to bet
 
 | FireFox | Edge | Chrome |
 | :---: | :---: | :---: |
-| <img width="800" alt="Refresh GitHub to see commit" src="images/submitcode/f5-github.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/submitcode/f5-github.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/submitcode/f5-github.png" /> |
+| <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/f5-github.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-edge.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-chrome.png" /> |
 | Uploads code **and** README.md | Uploads code **and** README.md | Uploads code **only**, missing README.md |
 
 ---
