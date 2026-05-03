@@ -36,39 +36,37 @@
 Open the repository folder in Explorer:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/afc1c12b-a0fd-41c5-bc99-87900a765a96" width="70%" />
+ <img width="2559" height="1389" alt="image" src="https://github.com/user-attachments/assets/6b85ab51-0a50-49ec-8c54-011c6b0813a9" />
 </p>
 
 Create a new folder to organize your code:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/72d90ee6-0121-408e-b5bb-24ad4ad1f158" width="50%" />
+  <img width="2562" height="1386" alt="image" src="https://github.com/user-attachments/assets/03a617ee-9117-4dc1-9c55-ca80149211eb" />
 </p>
 
 Move your code into the new folder:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/23779d84-3c0e-487d-9ad1-7ab8894273c2" width="35%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/f0ea76b4-50f8-4396-99d8-9318e13b704b" width="50%" />
+  <img width="2559" height="1390" alt="image" src="https://github.com/user-attachments/assets/62b0db85-caee-4b8a-b2ce-b7ca9ec152e0" /> <br><br>
+  <img width="2559" height="1385" alt="image" src="https://github.com/user-attachments/assets/86477cb4-f0aa-4b0f-958a-b01f352ed357" />
 </p>
 
 > **Note:** You need a Commit Message to commit files to main, for example: `"update leetcode"`
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b5aa8072-e85a-4b46-905f-85bd41b5b3e0" width="40%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/21ea2366-6f27-4379-b635-5cf652b3a8f4" width="40%" />
+  <img width="2559" height="1391" alt="image" src="https://github.com/user-attachments/assets/f6a998ce-e71a-4e74-b483-27e75511594b" />
 </p>
 
 **Push** — Send your local commits to the remote repository (GitHub):
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/53ee12f0-980e-4225-a637-cfce81c69798" width="40%" />
+  <img width="2559" height="1383" alt="image" src="https://github.com/user-attachments/assets/21147627-0fe7-40f7-8b80-9e77f6ee8ed3" />
 </p>
 
 Press **F5** to refresh your GitHub page and check your folder:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e9b4fb19-5628-4e7a-9c5d-156e825676f3" width="80%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/3670869c-17c9-4d20-baae-7b0a4e81443a" width="80%" /> <br><br>
+  <img width="2556" height="1303" alt="image" src="https://github.com/user-attachments/assets/0b0cc8f0-c019-4c9f-b05c-9ab9290f1d98" /> <br><br>
   <img src="https://github.com/user-attachments/assets/532618e1-295d-4dc5-88fa-03e554cb33be" width="80%" />
 </p>
