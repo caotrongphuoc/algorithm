@@ -95,14 +95,13 @@ You can edit the default commit message in the LeetHub extension settings to bet
 
 ---
 
-## II. Warning
+## Liên hệ & Hỗ trợ
 
-> **Important:** Using **Chrome** may fail to upload the `README.md` file (including the problem description) to GitHub.
-> **Edge is recommended** for full functionality.
-
-| FireFox | Edge | Chrome |
-| :---: | :---: | :---: |
-| <img width="800" alt="Submit by FireFox" src="images/tutorial/submit-by-firefox.png" /> | <img width="800" alt="Submit by Edge" src="images/tutorial/submit-by-edge.png" /> | <img width="800" alt="Refresh GitHub to see commit" src="images/tutorial/submit-by-chrome.png" /> |
-| Uploads code **and** README.md | Uploads code **and** README.md | Uploads code **only**, missing README.md |
+- LinkedIn: [www.linkedin.com/in/cao-trong-phuoc](https://www.linkedin.com/in/cao-trong-phuoc)
+- Dép lào: 0936310918
 
 ---
+
+<p align="center">
+  <i>Chúc bạn lập trình vui vẻ!</i>
+</p>
