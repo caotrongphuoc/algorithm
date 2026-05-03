@@ -7,7 +7,7 @@
 ### Step 1: Create a Repository
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/b83122fc-224d-48b9-9a1b-d594163db1df" width="80%" /> <br><br>
+  <img width="1431" height="508" alt="image" src="https://github.com/user-attachments/assets/d912cb73-c2f6-4f46-8836-635ea9ad1160" /> <br><br>
   <img src="https://github.com/user-attachments/assets/5a7bc4c8-297e-47a5-808b-3b2fad0db0c1" width="80%" /> <br><br>
   <img src="https://github.com/user-attachments/assets/46ff3424-09f5-4b62-8e61-999a7fd3041b" width="45%" />
 </p>
