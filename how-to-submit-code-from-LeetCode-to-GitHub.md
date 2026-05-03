@@ -17,11 +17,9 @@
 ### Step 2: Install LeetHub
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/d79c8e3f-fc76-4f3a-aa91-cf09168bf445" width="40%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/f67d0904-7e1b-464c-8f91-1f8ceb9b75d5" width="60%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/c2377336-8f50-4d11-a5f6-659e2f709554" width="25%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/05429e16-76d9-4fc4-aea4-c897e89f00bb" width="25%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/7ff364c7-1a48-4333-b48b-8570e00dd6c1" width="55%" />
+  <img width="1338" height="640" alt="repo" src="images/submitcode/extension.png" <br><br>
+  <img width="1338" height="640" alt="repo" src="images/submitcode/authenticate.png" <br><br>
+  <img width="1338" height="640" alt="repo" src="images/submitcode/linking.png" <br><br>
 </p>
 
 ---
@@ -29,25 +27,25 @@
 ### Step 3: Submit Code from LeetCode
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/94494f82-8d04-4781-a821-8bab23d66d57" width="80%" />
+  <img width="1338" height="640" alt="repo" src="images/submitcode/submit-code.png" <br><br>
 </p>
 
 > **Note:** You must wait until the tick turns **green** — this confirms your code has been submitted to GitHub.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/0e5fa8bd-e934-44fe-bbdf-989c5501314c" width="55%" />
+  <img width="1338" height="640" alt="repo" src="images/submitcode/wait-for-tick.png" <br><br>
 </p>
 
 > **Note:** Press **F5** to refresh your GitHub page and check the result.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/19a8596d-1287-4b6e-948f-e7d9794d5237" width="70%" />
+  <img width="1338" height="640" alt="repo" src="images/submitcode/f5-github.png" <br><br>
 </p>
 
 #### Customize Your Commit Message
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/daa22e01-2ef3-4ba9-83bb-008fd04f84b7" width="25%" />
+  <img width="1338" height="640" alt="repo" src="images/submitcode/customize-commit-message.png" <br><br>
 </p>
 
 ---
