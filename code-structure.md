@@ -2,20 +2,10 @@
 
 ---
 
-## Step 1: Download GitHub Desktop
+## Step 1: Download and login GitHub Desktop
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/14aa2215-20b0-47ad-85f1-cfd4fa52d6a0" width="80%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/ada1064b-ebea-4350-9864-d3a2adf675e5" width="80%" />
-</p>
-
----
-
-## Step 2: Log in to Your GitHub Account
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/288acd09-8554-4630-a952-78bcaa6e482a" width="70%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/0612f6fb-4ec8-4c80-8c13-d3b28e41f925" width="35%" />
+  <img width="2548" height="1303" alt="image" src="https://github.com/user-attachments/assets/9243b285-a331-4358-aac6-0b93ec9ae5d0" />
 </p>
 
 ---
@@ -23,9 +13,8 @@
 ## Step 3: Clone Your Repository
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/7d01d1d3-fac9-4d07-a66c-e87a0bd496fe" width="75%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/f0f911ab-fd91-44fb-9edc-3095628e6744" width="35%" /> <br><br>
-  <img src="https://github.com/user-attachments/assets/478cb85a-b739-4072-b0ab-b3d84cc7ad23" width="35%" />
+  <img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/a81a02b7-4fcf-45c1-868d-3eec1f22a015" /> <br><br>
+  <img width="2555" height="1363" alt="image" src="https://github.com/user-attachments/assets/19354b2b-0013-4713-995d-3c6954659876" /> <br><br>
 </p>
 
 ---
@@ -35,13 +24,13 @@
 **Fetch** — Check for new changes from the remote repository (GitHub) without modifying your local files:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/940019bb-9dd2-4227-bb15-36b1f23fc917" width="45%" />
+  <img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/21b9b35d-ec25-4723-8f35-dc1f61cfe847" />
 </p>
 
 **Pull** — Download changes from the remote repository and merge them into your current branch:
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/1174e740-3537-4ec6-855e-98656efdecde" width="40%" />
+  <img width="2559" height="1392" alt="image" src="https://github.com/user-attachments/assets/341cdfdb-5f76-4c63-83fe-0f816cfc621c" />
 </p>
 
 Open the repository folder in Explorer:
