@@ -1,59 +1,108 @@
 # How to Submit Code from LeetCode to GitHub
 
+A step-by-step guide to automatically push your LeetCode solutions to a GitHub repository using the **LeetHub** extension.
+
+---
+
+## Table of Contents
+- [I. Tutorial](#i-tutorial)
+  - [Step 1: Create a Repository](#step-1-create-a-repository)
+  - [Step 2: Install LeetHub](#step-2-install-leethub)
+  - [Step 3: Submit Code from LeetCode](#step-3-submit-code-from-leetcode)
+- [II. Warning](#ii-warning)
+
 ---
 
 ## I. Tutorial
 
 ### Step 1: Create a Repository
 
+First, create a new repository on GitHub to store your LeetCode solutions.
+
+**1.1.** Go to your GitHub homepage and locate the repository section.
+
 <p align="center">
-  <img width="1338" height="640" alt="repo" src="images/submitcode/repo.png" <br><br>
-  <img width="1338" height="640" alt="repo" src="images/submitcode/new-repo.png" <br><br>
-  <img width="1338" height="640" alt="repo" src="images/submitcode/create-repo.png" <br><br>
+  <img width="800" alt="GitHub homepage" src="images/submitcode/repo.png" />
+</p>
+
+**1.2.** Click **New** to start creating a repository.
+
+<p align="center">
+  <img width="800" alt="Click New repository" src="images/submitcode/new-repo.png" />
+</p>
+
+**1.3.** Fill in the repository name, choose visibility (Public/Private), then click **Create repository**.
+
+<p align="center">
+  <img width="800" alt="Create repository form" src="images/submitcode/create-repo.png" />
 </p>
 
 ---
 
 ### Step 2: Install LeetHub
 
+LeetHub is a browser extension that automatically pushes your accepted LeetCode submissions to GitHub.
+
+**2.1.** Search for **LeetHub** in the Chrome/Edge Web Store and add it to your browser.
+
 <p align="center">
-  <img width="1338" height="640" alt="repo" src="images/submitcode/extension.png" <br><br>
-  <img width="1338" height="640" alt="repo" src="images/submitcode/authenticate.png" <br><br>
-  <img width="1338" height="640" alt="repo" src="images/submitcode/linking.png" <br><br>
+  <img width="800" alt="Install LeetHub extension" src="images/submitcode/extension.png" />
+</p>
+
+**2.2.** Open the extension and click **Authenticate** to sign in with your GitHub account.
+
+<p align="center">
+  <img width="800" alt="Authenticate with GitHub" src="images/submitcode/authenticate.png" />
+</p>
+
+**2.3.** Link the extension to the repository you created in Step 1.
+
+<p align="center">
+  <img width="800" alt="Link repository to LeetHub" src="images/submitcode/linking.png" />
 </p>
 
 ---
 
 ### Step 3: Submit Code from LeetCode
 
+Once LeetHub is set up, every accepted submission can be pushed to GitHub automatically.
+
+**3.1.** Solve a problem on LeetCode and click **Submit**.
+
 <p align="center">
-  <img width="1338" height="640" alt="repo" src="images/submitcode/submit-code.png" <br><br>
+  <img width="800" alt="Submit code on LeetCode" src="images/submitcode/submit-code.png" />
 </p>
 
-> **Note:** You must wait until the tick turns **green** — this confirms your code has been submitted to GitHub.
+> **Note:** Wait until the LeetHub icon shows a **green tick** — this confirms your code has been pushed to GitHub successfully.
 
 <p align="center">
-  <img width="1338" height="640" alt="repo" src="images/submitcode/wait-for-tick.png" <br><br>
+  <img width="800" alt="Wait for green tick" src="images/submitcode/wait-for-tick.png" />
 </p>
 
-> **Note:** Press **F5** to refresh your GitHub page and check the result.
+**3.2.** Press **F5** to refresh your GitHub repository page and verify the new commit.
 
 <p align="center">
-  <img width="1338" height="640" alt="repo" src="images/submitcode/f5-github.png" <br><br>
+  <img width="800" alt="Refresh GitHub to see commit" src="images/submitcode/f5-github.png" />
 </p>
 
 #### Customize Your Commit Message
 
+You can edit the default commit message in the LeetHub extension settings to better describe your submissions.
+
 <p align="center">
-  <img width="1338" height="640" alt="repo" src="images/submitcode/customize-commit-message.png" <br><br>
+  <img width="800" alt="Customize commit message" src="images/submitcode/customize-commit-message.png" />
 </p>
 
 ---
 
 ## II. Warning
 
-Using **Chrome** may not submit the `README.md` (including your problem description) to GitHub. **Edge** is recommended for full functionality.
+> **Important:** Using **Chrome** may fail to upload the `README.md` file (including the problem description) to GitHub.
+> **Edge is recommended** for full functionality.
 
-| Edge ✅ | Chrome ❌ |
+| Edge | Chrome |
 | :---: | :---: |
 | <img src="https://github.com/user-attachments/assets/0c6290d7-e254-4e12-852d-04ccc7dd3e8c" width="100%" /> | <img src="https://github.com/user-attachments/assets/57e40230-0315-4758-9037-2d006876e5b6" width="100%" /> |
+| Uploads code **and** README.md | Uploads code **only**, missing README.md |
+
+---
