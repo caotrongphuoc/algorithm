@@ -10,6 +10,7 @@
 | [0179-largest-number](https://github.com/caotrongphuoc/algorithm/tree/main/0179-largest-number/) | Medium |
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
+| [0539-minimum-time-difference](https://github.com/caotrongphuoc/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/caotrongphuoc/algorithm/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/caotrongphuoc/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -55,6 +56,7 @@
 | [0463-island-perimeter](https://github.com/caotrongphuoc/algorithm/tree/main/0463-island-perimeter/) | Easy |
 | [0495-teemo-attacking](https://github.com/caotrongphuoc/algorithms/tree/main/0495-teemo-attacking/) | Easy |
 | [0496-next-greater-element-i](https://github.com/caotrongphuoc/algorithms/tree/main/0496-next-greater-element-i/) | Easy |
+| [0539-minimum-time-difference](https://github.com/caotrongphuoc/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [0542-01-matrix](https://github.com/caotrongphuoc/algorithm/tree/main/0542-01-matrix/) | Medium |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0622-design-circular-queue](https://github.com/caotrongphuoc/algorithm/tree/main/0622-design-circular-queue/) | Medium |
@@ -101,6 +103,7 @@
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0414-third-maximum-number](https://github.com/caotrongphuoc/algorithm/tree/main/0414-third-maximum-number/) | Easy |
+| [0539-minimum-time-difference](https://github.com/caotrongphuoc/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [0561-array-partition](https://github.com/caotrongphuoc/algorithm/tree/main/0561-array-partition/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/caotrongphuoc/algorithm/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -183,6 +186,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/caotrongphuoc/algorithm/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
+| [0539-minimum-time-difference](https://github.com/caotrongphuoc/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/caotrongphuoc/algorithm/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Binary Search
