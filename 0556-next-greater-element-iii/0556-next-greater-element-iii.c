@@ -1,5 +1,5 @@
 int nextGreaterElement(int n) {
-    char s[12];
+    char s[12]; //int toi da 10 chu so + 1 '\0' + 1 du
 
     sprintf(s, "%d", n);
 
