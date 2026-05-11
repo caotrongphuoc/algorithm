@@ -11,6 +11,7 @@
 | [0383-ransom-note](https://github.com/caotrongphuoc/algorithm/tree/main/0383-ransom-note/) | Easy |
 | [0389-find-the-difference](https://github.com/caotrongphuoc/algorithm/tree/main/0389-find-the-difference/) | Easy |
 | [0539-minimum-time-difference](https://github.com/caotrongphuoc/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/caotrongphuoc/algorithms/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/caotrongphuoc/algorithm/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/caotrongphuoc/algorithm/tree/main/0796-rotate-string/) | Easy |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/caotrongphuoc/algorithms/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -87,6 +88,7 @@
 | [0088-merge-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/caotrongphuoc/algorithms/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/caotrongphuoc/algorithms/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0556-next-greater-element-iii](https://github.com/caotrongphuoc/algorithms/tree/main/0556-next-greater-element-iii/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/caotrongphuoc/algorithms/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/caotrongphuoc/algorithm/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
@@ -187,6 +189,7 @@
 | [0268-missing-number](https://github.com/caotrongphuoc/algorithm/tree/main/0268-missing-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/caotrongphuoc/algorithm/tree/main/0367-valid-perfect-square/) | Easy |
 | [0539-minimum-time-difference](https://github.com/caotrongphuoc/algorithms/tree/main/0539-minimum-time-difference/) | Medium |
+| [0556-next-greater-element-iii](https://github.com/caotrongphuoc/algorithms/tree/main/0556-next-greater-element-iii/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/caotrongphuoc/algorithm/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/caotrongphuoc/algorithm/tree/main/1304-find-n-unique-integers-sum-up-to-zero/) | Easy |
 ## Binary Search
