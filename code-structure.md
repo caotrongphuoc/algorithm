@@ -17,7 +17,7 @@ A step-by-step guide to managing and organizing your code on GitHub using **GitH
 
 ## Step 1: Download and Login to GitHub Desktop
 
-Download **GitHub Desktop** from the official website and sign in with your GitHub account.
+Download **GitHub Desktop** for Windows from the [official website](https://desktop.github.com/) and sign in with your GitHub account. For Linux users, you can follow [this guide](https://linuxcapable.com/how-to-install-github-desktop-on-ubuntu-linux/) to install **GitHub Desktop** on Ubuntu.
 
 <p align="center">
   <img width="900" alt="Download GitHub Desktop" src="images/tutorial/codestructure/download-github.png" />
